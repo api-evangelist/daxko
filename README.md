@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Daxko is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://daxko.com/
+Daxko provides cloud‑based software solutions for YMCAs, community centers, and other nonprofit fitness organizations. Its platform includes membership management, facility scheduling, payments, marketing automation, and analytics, helping operators streamline operations and improve member experiences. Daxko serves a broad range of clients across the United States, offering integrated tools for clubs, gyms, and wellness programs.
+
+**Areas:** Company · Software · Fitness · Nonprofit · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://daxko.com/)
+- [Documentation](https://docs.partners.daxko.com/)
+- [Getting started](https://docs.partners.daxko.com/tutorials/club_automation_getting_started)
+- [Support](https://help.daxko.com/s/)
+- [GitHub](https://github.com/daxko)
+- [Status](https://status.daxko.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/daxko/](https://apis.io/providers/daxko/).
